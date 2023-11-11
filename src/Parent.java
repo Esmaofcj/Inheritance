@@ -11,6 +11,5 @@ public class Parent {
         System.out.println(name + " it's better to be lonely");
     }
 
-    
-    
+
 }
